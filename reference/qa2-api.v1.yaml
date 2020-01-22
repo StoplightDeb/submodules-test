@@ -1,0 +1,13 @@
+openapi: 3.0.0
+info:
+  title: QA2 API
+  version: '1.0'
+  description: |-
+    QA2 for the worold
+
+    THE WOROLD
+servers:
+  - url: 'http://localhost:3000'
+paths: {}
+components:
+  schemas: {}
