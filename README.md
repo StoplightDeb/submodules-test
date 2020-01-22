@@ -1,3 +1,3 @@
 # submodules-test
 
-hello 1
+hello 2
